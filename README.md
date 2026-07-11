@@ -38,3 +38,17 @@ This project explores customer churn behavior using Python for data cleaning and
 - **Bank_Churn_Messy.xlsx** – Raw dataset before cleaning
 - **Bank_Churn_Data_Dictionary.csv** – Variable descriptions
 - **Tableau Bank Churn.twb** – Tableau workbook
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Tableau Dashboard Design
+- Data Visualization
+- Business Insights
+
+Future Improvements
+
+- Build a predictive machine learning model for churn
+- Add additional Tableau filters and KPI cards
