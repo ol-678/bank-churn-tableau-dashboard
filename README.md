@@ -24,12 +24,17 @@ This is a Bank Churn Analysis that analyzes customer churn using Python and Tabl
 
 ## Key Insights
 
-- Germany has the highest churn rate.
-- Customers aged 51–60 show the highest churn.
-- Customers with 3+ products have the highest churn.
-- Inactive customers churn more than active customers.
-- Credit category shows relatively small differences.
+- Germany has the highest churn rate
+- Customers aged 51–60 show the highest churn
+- Customers with 3+ products have the highest churn
+- Inactive customers churn more than active customers
+- Credit category shows relatively small differences
 
 ## Files
 
-...
+- **Bank_Churn_Project.py** – Python script for data cleaning, feature engineering, and exploratory analysis
+- **Bank_Churn_Cleaned.csv** – Cleaned dataset used for Tableau visualization
+- **Bank_Churn.csv** – Original dataset
+- **Bank_Churn_Messy.xlsx** – Raw dataset before cleaning
+- **Bank_Churn_Data_Dictionary.csv** – Variable descriptions
+- **Tableau Bank Churn.twb** – Tableau workbook
