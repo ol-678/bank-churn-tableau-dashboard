@@ -1,7 +1,7 @@
 # Bank Customer Churn Analysis
 
 ## Overview
-This is a Bank Churn Analysis that analyzes customer churn using Python and Tableau
+This project explores customer churn behavior using Python for data cleaning and exploratory analysis, followed by an interactive Tableau dashboard to visualize churn patterns across customer demographics and account characteristics
 
 ## Tools
 - Python
